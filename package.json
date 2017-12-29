@@ -20,6 +20,7 @@
     "benchmark": "lerna exec --scope benchmarks npm run benchmark",
     "start:site": "lerna exec --scope emotion-example-project npm run start:site",
     "build:site": "lerna exec --scope emotion-example-project npm run build:site",
+    "deploy:site": "lerna exec --scope emotion-example-project npm run deploy:site",
     "watch": "lerna run --parallel watch",
     "bootstrap": "lerna bootstrap"
   },
