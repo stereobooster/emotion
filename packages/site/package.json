@@ -41,5 +41,8 @@
     "webpack-dev-server": "^2.4.5"
   },
   "author": "Kye Hohenberger",
-  "license": "MIT"
+  "license": "MIT",
+  "reactSnap": {
+    "inlineCss": true
+  }
 }
